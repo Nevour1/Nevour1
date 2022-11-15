@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nevour1
 - 👀 I’m interested in Python, C++, C#
-- 🌱 I’m currently learning Software Engineering (on a privat base for now next year in Uni)
+- 🌱 I’m currently a Software Engnieering Student in University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
